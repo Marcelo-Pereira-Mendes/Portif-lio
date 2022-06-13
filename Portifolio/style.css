@@ -1,0 +1,61 @@
+
+
+ body{
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+ 
+ }
+ 
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(20, 189, 223);
+  color: white;
+}
+a{
+  color:black;
+  text-decoration: none;
+}
+/*Posicionamento a partir do portifólio*/
+#portifolio{
+  margin-left: 10px;
+  margin-top: auto;
+   border-radius: 10px;
+}
+.container-fluid{
+  margin-top: auto;
+  width: 70%;
+  border-radius: 10px;
+}
+#link:hover{
+color:red, 
+}
+.container{
+  background-color: #090d00;
+  border-radius: 10px;
+}
+
+/*dimenções do carrossel*/
+.carousel-inner{
+  display: flex;
+  align-items: center;
+  width: 80%;
+   
+}
+#habilidades:hover{
+ zoom:130%;
+ color:blue;
+}
+
+
+
+
+
+             
+ 
+
+
+
+
+
+
+

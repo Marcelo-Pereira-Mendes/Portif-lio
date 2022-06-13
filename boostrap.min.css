@@ -1,0 +1,36 @@
+
+/*Pagina principal*/
+body{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif !important;
+}
+.text-primary{
+    font: 2rem/1.5 var(--bs-font-sans-serif)!important;
+  
+  }
+.text-primary {
+  color: #090d00 !important;
+}
+.text-primary:hover{
+  
+color: rgb(139, 7, 139) !important;
+
+}
+/*link*/
+.text-white:hover{
+  color: rgb(251, 197, 79) !important;
+ 
+}
+/*Botão carrossel*/
+#btn{
+  background-color: red !important;
+}
+
+
+
+
+
+  
+  
+
+
+
